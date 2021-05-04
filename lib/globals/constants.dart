@@ -1,5 +1,5 @@
 /// REST Api
-const String kBaseUrl = 'https://run.mocky.io/v3';
+const String kBaseUrl = 'https://your_backend_api_uri/v3';
 const String kTokenUrl = 'https://your_token_url';
 
 const String kPatientTasksApiPath = '/909bf061-c52a-45ef-8f61-8582d77173c4';
